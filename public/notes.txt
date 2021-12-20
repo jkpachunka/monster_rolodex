@@ -1,0 +1,1 @@
+Need to place state at the highest point where all dependent components can reach it.
